@@ -1,4 +1,4 @@
-const API_KEY = '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'
+const API_KEY = 'API_KEY'
 const submitButton = document.querySelector('#submit')
 const outPutElement = document.querySelector('#output')
 const inputElement = document.querySelector('input')
